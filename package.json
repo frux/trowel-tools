@@ -26,7 +26,7 @@
     "eslint-config-xo": "^0.17.0",
     "react": "15.x",
     "react-dom": "15.x",
-    "react-router-dom": "^4.0.0-beta.4",
+    "react-router-dom": "^4.0.0",
     "react-redux": "5.x",
     "redux": "3.x",
     "react-hot-loader": "^3.0.0-beta.6"
